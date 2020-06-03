@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EEF0F3</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorMainTitle">#FF7800</color>
+    <color name="colorTitle">#31333e</color>
+    <color name="colorMainTabText">#9c9c9c</color>
+    <color name="colorMainTab">#04cb94</color>
+    <color name="colorHeader">#e7e7e7</color>
+    <color name="colorGray">#00F1F1F1</color>
+    <color name="colorTitleBg">#F8F8F8</color>
+    <color name="colorShape">#b1b1b1</color>
+    <color name="colorUserInfo">#333333</color>
+    <color name="colorAuthorizationStatus">#F5F7F9</color>
+    <color name="colorAuthorizationStatusStroke">#a7b6c7</color>
+    <color name="colorUserInfoStatus">#00B2FF</color>
+</resources>

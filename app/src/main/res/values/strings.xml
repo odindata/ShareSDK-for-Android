@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">OdinShare</string>
+
+    <string name="str_share">分享</string>
+    <string name="str_one_key_share">分享菜单</string>
+    <string name="str_screenshot_share">截图分享</string>
+    <string name="str_screenshot_share_hint">点击图片开始分享</string>
+
+    <!--授权-->
+    <string name="str_authorization">授权</string>
+    <string name="str_authorization_delete">取消授权</string>
+
+    <!--用户信息-->
+    <string name="str_user_info">用户信息</string>
+    <string name="str_user_info_show">查看信息</string>
+    <string name="str_copy_user_info">复制</string>
+
+    <!--分享类型-->
+    <string name="str_share_text">分享文本</string>
+    <string name="str_share_image">分享图片</string>
+    <string name="str_share_image_local">分享纯图片（本地）</string>
+    <string name="str_share_image_http">分享纯图片（Http）</string>
+    <string name="str_share_image_bitmap">分享纯图片（Bitmap）</string>
+    <string name="str_share_image_array">分享多图</string>
+    <string name="str_share_webpage">分享链接</string>
+    <string name="str_share_music">分享音乐</string>
+    <string name="str_share_video">分享视频</string>
+    <string name="str_share_app">分享应用</string>
+    <string name="str_share_file">分享文件</string>
+    <string name="str_share_emoji">分享表情</string>
+    <string name="str_share_mini_app">分享微信小程序</string>
+</resources>
