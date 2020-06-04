@@ -12,8 +12,5 @@ public class OdinApplication extends Application {
 
         //OdinShareSDK初始化
         OdinShareSDK.init(this);
-
-        //开启日志打印，默认是关闭模式
-        OdinShareSDK.setLogEnabled(true);
     }
 }
