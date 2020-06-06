@@ -58,16 +58,16 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar', '*.aar'])
 
-//    implementation 'com.odin.share:ShareSDK:1.0.3_beta'
-//    implementation 'com.odin.share:QQ:1.0.3_beta'
-//    implementation 'com.odin.share:Wechat:1.0.3_beta'
-//    implementation 'com.odin.share:SinaWeibo:1.0.3_beta'
-//    implementation 'com.odin.share:Alipay:1.0.3_beta'
-//    implementation 'com.odin.share:Dingding:1.0.3_beta'
-//    implementation 'com.odin.share:Facebook:1.0.3_beta'
-//    implementation 'com.odin.share:Twitter:1.0.3_beta'
-//    implementation 'com.odin.share:Instagram:1.0.3_beta'
-//    implementation 'com.odin.share:OdinOneKeyShare:1.0.3_beta@aar'
+    implementation 'com.odin.share:ShareSDK:1.0.4_beta'
+    implementation 'com.odin.share:QQ:1.0.4_beta'
+    implementation 'com.odin.share:Wechat:1.0.4_beta'
+    implementation 'com.odin.share:SinaWeibo:1.0.4_beta'
+    implementation 'com.odin.share:Alipay:1.0.4_beta'
+    implementation 'com.odin.share:Dingding:1.0.4_beta'
+    implementation 'com.odin.share:Facebook:1.0.4_beta'
+    implementation 'com.odin.share:Twitter:1.0.4_beta'
+    implementation 'com.odin.share:Instagram:1.0.4_beta'
+    implementation 'com.odin.share:OdinOneKeyShare:1.0.4_beta@aar'
 
     implementation 'androidx.appcompat:appcompat:1.1.0'
     implementation 'com.android.support.constraint:constraint-layout:1.1.3'
